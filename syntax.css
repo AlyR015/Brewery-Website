@@ -1,0 +1,141 @@
+body{
+    font-family: arial;
+    margin: 0;
+    background: url(images/white-brick.jpg);
+}
+
+#wrapper{
+    margin: 0 auto;
+    width: 900px;
+    background: #FFDB58;
+    height: 50px;
+    text-align: center;
+}
+
+#main-naviation{
+    background: darkgray;
+    padding: 20px; 
+}
+
+#main-navigation ul{
+    text-align: center;
+    list-style-type: none;
+    margin-right: 10px;
+}
+
+#main-navigation li{
+    display: inline-block;
+    margin-left: 20px;
+    list-style-type: none;
+}
+
+#main-navigation a{
+    text-decoration: none;
+    color: saddlebrown;
+    text-transform: uppercase;
+    padding: 6px;
+    font-size: 19px;
+}
+
+#main-navigation a.current{
+    background: #8f746c;
+}
+
+#main-navigation a.current:hover{
+    background: green;
+}
+
+h1{
+    font-size: 150px;
+    color: #181818;
+    position: center;
+    text-align: center;
+    background-image: url(images/beer-border.jpg);
+    background-size: cover;
+    height: 400px;
+    font-family: 'Bradley Hand', cursive;
+
+}
+
+h2{
+    font-size: 80px;
+    font-style: arial;
+    position: relative;
+    text-align: center;
+    font-family: 'Bradley Hand', cursive;
+}
+
+p{
+    font-size: 40px;
+    text-align: center;
+    color: midnightblue;
+    font-family: 'Bradley Hand', cursive;
+}
+
+#lead-banner img{
+    width: 100%;
+}
+
+#center-img img{
+    margin-left: 500px;
+}
+
+div h3{
+    text-decoration: underline;
+    font-size: 40px;
+    font-family: 'Bradley Hand', cursive;
+    text-align: center;
+    position: relative;
+   font-weight: 600;
+    color: midnightblue;
+    margin-left: 40px;
+}
+
+div li{
+   list-style-type: none;
+    font-size: 30px;
+    font-family: 'Bradley Hand', cursive;
+    position: relative;
+    text-align: center;
+    color: midnightblue;
+    margin-left: 40px;
+    margin-bottom: 20px;
+    
+}
+
+.flex-container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 100px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
+
+.fa-instagram{
+    background: #f09433;
+    color: white;
+}
