@@ -1,7 +1,7 @@
 body{
     font-family: arial;
     margin: 0;
-    background: url(images/white-brick.jpg);
+    background: url(images/white-brick.JPG);
 }
 
 #wrapper{
@@ -50,7 +50,7 @@ h1{
     color: #181818;
     position: center;
     text-align: center;
-    background-image: url(images/beer-border.jpg);
+    background-image: url(images/beer-border.JPG);
     background-size: cover;
     height: 400px;
     font-family: 'Bradley Hand', cursive;
