@@ -1,5 +1,5 @@
 body{
-    font-family: arial;
+    font-family: Ebrima;
     margin: 0;
     background: url(images/white-brick.jpg);
 }
@@ -50,10 +50,10 @@ h1{
     color: #181818;
     position: center;
     text-align: center;
-    background: url(images/beer-border.jpg);
+    background-image: url(images/beer-border.jpg);
     background-size: cover;
     height: 400px;
-    font-family: 'Bradley Hand', cursive;
+    font-family: Ebrima;
 
 }
 
@@ -62,14 +62,14 @@ h2{
     font-style: arial;
     position: relative;
     text-align: center;
-    font-family: 'Bradley Hand', cursive;
+    font-family: Ebrima;
 }
 
 p{
     font-size: 40px;
     text-align: center;
     color: midnightblue;
-    font-family: 'Bradley Hand', cursive;
+    font-family: Ebrima;
 }
 
 #lead-banner img{
@@ -83,7 +83,7 @@ p{
 div h3{
     text-decoration: underline;
     font-size: 40px;
-    font-family: 'Bradley Hand', cursive;
+    font-family: Ebrima;
     text-align: center;
     position: relative;
    font-weight: 600;
@@ -94,7 +94,7 @@ div h3{
 div li{
    list-style-type: none;
     font-size: 30px;
-    font-family: 'Bradley Hand', cursive;
+    font-family: Ebrima;
     position: relative;
     text-align: center;
     color: midnightblue;
