@@ -1,21 +1,41 @@
 body{
-    font-family: arial;
+    font-family: Ebrima;
     margin: 0.5;
     background: url(images/white-brick.jpg);
 }
 
-h1, h3, h4{
+h1{
+    
+    font-size: 60px;
+    text-align: center;
+    background: #FFDB58;
+    width: 300px;
+    position: center;
+    margin: 0 auto;
+    
+}
+
+h3{
     
     text-align: center;
+    font-size: 30px;
+    background: #FFDB58;
+    width: 400px;
+    margin: 0 auto;
 }
 
 
 p{
     text-align: center;
+    font-family: MS PGothic;
+    font-size: 25px;
+    
     
 }
 
-h1{
-   font-size: 50px; 
-    
+#images{
+    margin-left: 450px;
+    margin-top 40px;
+    margin-bottom: 40px;
+    padding: 20px;
 }
